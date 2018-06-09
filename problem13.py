@@ -39,4 +39,3 @@ elif num.isdigit():
     #         if n % 2 == 0:
     #             sum += n
     #     print('결과 값: {}'.format(sum))
-    sajdgsajdsaj
